@@ -17,15 +17,19 @@ MyPerro is a simple web project developed using HTML, CSS, and the Bootstrap fra
 - Minimalistic and clean UI.
 
 ## Screenshots
-![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/bbfbc5ef-2806-4857-8e2f-b6983b20f3fe)
+![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/4e955dd9-af12-4c9f-8e53-760e5f8faff4)
 
-![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/76db2106-63b8-41fa-b4f7-35018fadb7a2)
+![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/948d9968-526e-4fa5-845a-8ac5e635340a)
 
-![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/50d14634-56e0-4191-8b47-4e1a85bf4c56)
+![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/013918c6-cabd-41ed-8238-c0588d185090)
 
-![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/d8075b4c-94f4-4a32-9833-eaa4c61b0bd0)
+![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/c8ad6761-f429-423b-8290-06a1e443d2b8)
 
-![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/cbd3721a-8dec-4531-9c67-cd04a98043db)
+![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/61a6d839-e3c0-438e-b25d-5b26c90d97dc)
+
+![image](https://github.com/Akshay-Coded/MyPerro/assets/131320419/0c266a1d-cb78-4a64-b6fc-66e4ef566aa9)
+
+
 
 ## Author
 - Akshay-Coded
