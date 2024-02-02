@@ -1,5 +1,5 @@
 # My Perro
-MyPerro is a simple web project developed using HTML, CSS, and the Bootstrap framework. It was created as an interview task for an internship opportunity. The project is focused on showcasing basic HTML and CSS skills, along with the integration of Bootstrap for responsive design.
+MyPerro is a simple web project developed using HTML, CSS, and the Bootstrap framework. It was created as an interview task for an internship opportunity. The project is focused on showcasing basic HTML and CSS skills, along with the integration of Bootstrap for responsive design. Use this link to view the page https://akshay-coded.github.io/MyPerro/
 
 ## Project Structure
 
